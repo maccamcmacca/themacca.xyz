@@ -5,8 +5,7 @@ html {
 }
 
 body {
-	background: #20242d;
-	background: linear-gradient(#20242d,black) no-repeat fixed;
+	background: #30343d;
 	padding-top: 10px;
 }
 
@@ -31,7 +30,7 @@ ul ul {
 }
 
 a {
-	color: cornflowerblue;
+	color: wheat;
 	text-decoration: none;
 }
 
@@ -61,7 +60,7 @@ h1, h3 {
 }
 
 h2 {
-	color: cadetblue;
+	color: lightblue;
 }
 
 h2, h3 {
@@ -135,7 +134,7 @@ nav li, footer li, .tag-list li{
 }
 
 nav li:hover, footer li:hover, .tag-list li:hover {
-	background: #d8dee9;
+	background-color: rgba(64,72,90,.66);
 }
 
 @media (min-width: 55em){
